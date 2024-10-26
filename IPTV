@@ -1,4 +1,4 @@
-•央视「IPV6」,#genre#
+央视,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
 CCTV3,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
@@ -18,7 +18,7 @@ CCTV15,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/
 CCTV16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 
-•卫视「IPV6」,#genre#
+卫视,#genre#
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -65,47 +65,52 @@ CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8
 
-•影视「轮播」,#genre#
-电影星爷@代,http://cfss.cc/cdn/hy/11342412.flv
-宋小宝小品台,https://www.goodiptv.club/douyu/9817729
-
 斗鱼轮播,#genre#
-🎬豆瓣高分电影,http://zzy789.xyz/douyu1.php?id=8770422 # http://159.75.85.63:35455/douyu/8770422
-🎬欧美大片,http://zzy789.xyz/douyu1.php?id=2793084 # http://159.75.85.63:35455/douyu/2793084
-🔴神乐华语①厅,http://zzy789.xyz/douyu1.php?id=85894 # http://159.75.85.63:35455/douyu/85894
-🔴神乐华语②厅,http://zzy789.xyz/douyu1.php?id=122402 # http://159.75.85.63:35455/douyu/122402
-🔴神乐粤语厅,http://zzy789.xyz/douyu1.php?id=6566671 # http://159.75.85.63:35455/douyu/6566671
-🔴神乐欧美厅,http://zzy789.xyz/douyu1.php?id=20415 # http://159.75.85.63:35455/douyu/20415
-🟢贝爷欧美①厅,http://zzy789.xyz/douyu1.php?id=252802 # http://159.75.85.63:35455/douyu/252802
-🟢贝爷欧美②厅,http://zzy789.xyz/douyu1.php?id=36337 # http://159.75.85.63:35455/douyu/36337
-🟢贝爷欧美IMAX厅,http://zzy789.xyz/douyu1.php?id=4332 # http://159.75.85.63:35455/douyu/4332
-🟣奶虫恐怖影院,http://zzy789.xyz/douyu1.php?id=263824 # http://159.75.85.63:35455/douyu/263824
-🟣奶虫动作影院,http://zzy789.xyz/douyu1.php?id=315457 # http://159.75.85.63:35455/douyu/315457
-🟣奶虫粤语影院,http://zzy789.xyz/douyu1.php?id=5033502 # http://159.75.85.63:35455/douyu/5033502
-🟠华语动作①厅,http://zzy789.xyz/douyu1.php?id=3928 # http://159.75.85.63:35455/douyu/3928
-🟠华语动作②厅,http://zzy789.xyz/douyu1.php?id=276200 # http://159.75.85.63:35455/douyu/276200
-☯️经典恐怖Ⅰ厅,http://zzy789.xyz/douyu1.php?id=6906628 # http://159.75.85.63:35455/douyu/6906628
-☯️经典恐怖Ⅱ厅,http://zzy789.xyz/douyu1.php?id=8009547 # http://159.75.85.63:35455/douyu/8009547
-⚫外国恐怖大厅,http://zzy789.xyz/douyu1.php?id=96577 # http://159.75.85.63:35455/douyu/96577
-⚫华语恐怖①厅,http://zzy789.xyz/douyu1.php?id=218859 # http://159.75.85.63:35455/douyu/218859
-⚫华语恐怖②厅,http://zzy789.xyz/douyu1.php?id=310926 # http://159.75.85.63:35455/douyu/310926
-⚫华语恐怖③厅,http://zzy789.xyz/douyu1.php?id=2935323 # http://159.75.85.63:35455/douyu/2935323
-🔘贝贝影视厅,http://zzy789.xyz/douyu1.php?id=431460 # http://159.75.85.63:35455/douyu/431460
-🔘怡宝科幻动作,http://zzy789.xyz/douyu1.php?id=434971 # http://159.75.85.63:35455/douyu/434971
-🔘冰冰恐怖动作,http://zzy789.xyz/douyu1.php?id=74374 # http://159.75.85.63:35455/douyu/74374
-🔘华语科幻动作,http://zzy789.xyz/douyu1.php?id=11544610 # http://159.75.85.63:35455/douyu/11544610
-📺橙记人气港剧,http://zzy789.xyz/douyu1.php?id=4549169 # http://159.75.85.63:35455/douyu/4549169
-📺古装武侠剧场,http://zzy789.xyz/douyu1.php?id=338759 # http://159.75.85.63:35455/douyu/338759
-📺现代破案侦查,http://zzy789.xyz/douyu1.php?id=922564 # http://159.75.85.63:35455/douyu/922564
-🔶港剧天地①台,http://zzy789.xyz/douyu1.php?id=4290711 # http://159.75.85.63:35455/douyu/4290711
-🔶港剧天地②台,http://zzy789.xyz/douyu1.php?id=5522351 # http://159.75.85.63:35455/douyu/5522351
-🔶港剧天地③台,http://zzy789.xyz/douyu1.php?id=5261342 # http://159.75.85.63:35455/douyu/5261342
-🔷怀旧经典港剧,http://zzy789.xyz/douyu1.php?id=5061550 # http://159.75.85.63:35455/douyu/5061550
-🔷老版三国演义,http://zzy789.xyz/douyu1.php?id=7459925 # http://159.75.85.63:35455/douyu/7459925
-🔷神探狄仁杰,http://zzy789.xyz/douyu1.php?id=6027991 # http://159.75.85.63:35455/douyu/6027991
-🔷神话,http://zzy789.xyz/douyu1.php?id=5448413 # http://159.75.85.63:35455/douyu/5448413
+LPL,https://www.goodiptv.club/douyu/288016
+LPL,http://cfss.cc/cdn/hy/lpl.flv
+小宇60帧,http://zzy789.xyz/douyu1.php?id=323876 # http://159.75.85.63:35455/douyu/323876
+欧美大片,http://zzy789.xyz/douyu1.php?id=2793084 # http://159.75.85.63:35455/douyu/2793084
+神乐华语①厅,http://zzy789.xyz/douyu1.php?id=85894 # http://159.75.85.63:35455/douyu/85894
+神乐华语②厅,http://zzy789.xyz/douyu1.php?id=122402 # http://159.75.85.63:35455/douyu/122402
+神乐粤语厅,http://zzy789.xyz/douyu1.php?id=6566671 # http://159.75.85.63:35455/douyu/6566671
+神乐欧美厅,http://zzy789.xyz/douyu1.php?id=20415 # http://159.75.85.63:35455/douyu/20415
+贝爷欧美①厅,http://zzy789.xyz/douyu1.php?id=252802 # http://159.75.85.63:35455/douyu/252802
+贝爷欧美②厅,http://zzy789.xyz/douyu1.php?id=36337 # http://159.75.85.63:35455/douyu/36337
+贝爷欧美IMAX厅,http://zzy789.xyz/douyu1.php?id=4332 # http://159.75.85.63:35455/douyu/4332
+奶虫恐怖影院,http://zzy789.xyz/douyu1.php?id=263824 # http://159.75.85.63:35455/douyu/263824
+奶虫动作影院,http://zzy789.xyz/douyu1.php?id=315457 # http://159.75.85.63:35455/douyu/315457
+奶虫粤语影院,http://zzy789.xyz/douyu1.php?id=5033502 # http://159.75.85.63:35455/douyu/5033502
+华语动作①厅,http://zzy789.xyz/douyu1.php?id=3928 # http://159.75.85.63:35455/douyu/3928
+华语动作②厅,http://zzy789.xyz/douyu1.php?id=276200 # http://159.75.85.63:35455/douyu/276200
+经典恐怖Ⅰ厅,http://zzy789.xyz/douyu1.php?id=6906628 # http://159.75.85.63:35455/douyu/6906628
+经典恐怖Ⅱ厅,http://zzy789.xyz/douyu1.php?id=8009547 # http://159.75.85.63:35455/douyu/8009547
+外国恐怖大厅,http://zzy789.xyz/douyu1.php?id=96577 # http://159.75.85.63:35455/douyu/96577
+华语恐怖①厅,http://zzy789.xyz/douyu1.php?id=218859 # http://159.75.85.63:35455/douyu/218859
+华语恐怖②厅,http://zzy789.xyz/douyu1.php?id=310926 # http://159.75.85.63:35455/douyu/310926
+华语恐怖③厅,http://zzy789.xyz/douyu1.php?id=2935323 # http://159.75.85.63:35455/douyu/2935323
+贝贝影视厅,http://zzy789.xyz/douyu1.php?id=431460 # http://159.75.85.63:35455/douyu/431460
+怡宝科幻动作,http://zzy789.xyz/douyu1.php?id=434971 # http://159.75.85.63:35455/douyu/434971
+冰冰恐怖动作,http://zzy789.xyz/douyu1.php?id=74374 # http://159.75.85.63:35455/douyu/74374
+华语科幻动作,http://zzy789.xyz/douyu1.php?id=11544610 # http://159.75.85.63:35455/douyu/11544610
+橙记人气港剧,http://zzy789.xyz/douyu1.php?id=4549169 # http://159.75.85.63:35455/douyu/4549169
+古装武侠剧场,http://zzy789.xyz/douyu1.php?id=338759 # http://159.75.85.63:35455/douyu/338759
+现代破案侦查,http://zzy789.xyz/douyu1.php?id=922564 # http://159.75.85.63:35455/douyu/922564
+港剧天地①台,http://zzy789.xyz/douyu1.php?id=4290711 # http://159.75.85.63:35455/douyu/4290711
+港剧天地②台,http://zzy789.xyz/douyu1.php?id=5522351 # http://159.75.85.63:35455/douyu/5522351
+港剧天地③台,http://zzy789.xyz/douyu1.php?id=5261342 # http://159.75.85.63:35455/douyu/5261342
+怀旧经典港剧,http://zzy789.xyz/douyu1.php?id=5061550 # http://159.75.85.63:35455/douyu/5061550
+新三国,http://zzy789.xyz/douyu1.php?id=3758762 # http://159.75.85.63:35455/douyu/3758762
+新版三国,http://zzy789.xyz/douyu1.php?id=5908256 # http://159.75.85.63:35455/douyu/5908256
+老版三国演义,http://zzy789.xyz/douyu1.php?id=7459925 # http://159.75.85.63:35455/douyu/7459925
+神探狄仁杰,http://zzy789.xyz/douyu1.php?id=6027991 # http://159.75.85.63:35455/douyu/6027991
+神话,http://zzy789.xyz/douyu1.php?id=5448413 # http://159.75.85.63:35455/douyu/5448413
+神乐MV厅,http://zzy789.xyz/douyu1.php?id=6557037 # http://159.75.85.63:35455/douyu/6557037
+开心麻花,http://zzy789.xyz/douyu1.php?id=10153463 # http://159.75.85.63:35455/douyu/10153463
+史君说剧,http://zzy789.xyz/douyu1.php?id=9419771 # http://159.75.85.63:35455/douyu/9419771
+韩日综艺,http://zzy789.xyz/douyu1.php?id=131977 # http://159.75.85.63:35455/douyu/131977
 
 虎牙轮播,#genre#
+电影星爷,http://cfss.cc/cdn/hy/11342412.flv
 电影_英叔,https://live.metshop.top/huya/11342421
 电影_成龙,https://live.metshop.top/huya/11342386
 林正英,https://cfss.cc/cdn/hy/11342421.flv
