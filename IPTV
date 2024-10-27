@@ -1,7 +1,12 @@
 央视,#genre#
 
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
+CCTV2,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225599/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225599/index.m3u8
+CCTV2,https://z88.ubtvfans.com/live/rx1/2305/33545cc7858137acae827ca84a574951/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8$5.5M_1080
+CCTV2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
+CCTV2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
 CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
@@ -22,6 +27,14 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 
 
 卫视,#genre#
+凤凰卫视,https://z88.ubtvfans.com/live/rx1/2812/1ab4a96e4b23851cc791d361effb015a/index.m3u8
+凤凰香港,https://z88.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
+凤凰资讯,https://z88.ubtvfans.com/live/rx3/2292/45ceb0f863d4b877269f3c784ff16f30/index.m3u8
+凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+凤凰卫视,http://116.162.6.192/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰资讯,http://116.162.6.192/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8
@@ -102,7 +115,7 @@ LPL,http://cfss.cc/cdn/hy/s4k.flv
 怀旧经典港剧,http://zzy789.xyz/douyu1.php?id=5061550 # http://159.75.85.63:35455/douyu/5061550
 新水浒,http://zzy789.xyz/douyu1.php?id=3758762 # http://159.75.85.63:35455/douyu/3758762
 新版三国,http://zzy789.xyz/douyu1.php?id=5908256 # http://159.75.85.63:35455/douyu/5908256
-老版三国演义,http://zzy789.xyz/douyu1.php?id=7459925 # http://159.75.85.63:35455/douyu/7459925
+老版三国,http://zzy789.xyz/douyu1.php?id=7459925 # http://159.75.85.63:35455/douyu/7459925
 神探狄仁杰,http://zzy789.xyz/douyu1.php?id=6027991 # http://159.75.85.63:35455/douyu/6027991
 神话,http://zzy789.xyz/douyu1.php?id=5448413 # http://159.75.85.63:35455/douyu/5448413
 神乐MV厅,http://zzy789.xyz/douyu1.php?id=6557037 # http://159.75.85.63:35455/douyu/6557037
