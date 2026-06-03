@@ -1,55 +1,26 @@
-央视,#genre#
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="③央视频道",CCTV1综合
-https://hls.catvod.com/live/9NFldIGHT4OgFPIcxTR_sXnyIU0jL9T6i563IwxJeHDPHt0-3UsF1Mv4TaGb1-xt/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="③央视频道",CCTV2财经
-https://hls.catvod.com/live/gLwos7_e6Y4Upl1BxacXF4o8curNTa91h6lAiRxU_eQJkK_AtkgWr17o8ntRv1Ce/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="③央视频道",CCTV3综艺
-https://hls.catvod.com/live/0Rre4DIdUbejNXiTFA9nC1LH3iGG0xv5lKYOvk5E3TcNvrBUvVndzOzcfT7BH7wQ/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="③央视频道",CCTV4中文国际
-https://hls.catvod.com/live/P4Dm_ldIeLhp0bYFx2WSJ4MIZpMrECSwDsvgJ4EGk4nIW8ZICmOgXabanVr3Yrsk/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="③央视频道",CCTV5体育
-https://hls.catvod.com/live/4UzY4Wo80Lh4JHmoPnbPcqTm7qLaNP8QXWynXVW2gD7ADfQGeSu_QsaDRASsDBaq/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="③央视频道",CCTV5+体育赛事
-https://hls.catvod.com/live/lSNsCg-4iPwNJwKvIEAveMjOVPEXSA2piiJSdUHXrKweYrqwhQIwX9nIb92gQqAP/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="③央视频道",CCTV6电影
-https://hls.catvod.com/live/jKCU2LvGncuNwFkVJvnab7Al933W6jbeMGaib9j0eN6i0R4vP8Kthj-EdUWRUIeV/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="③央视频道",CCTV7国防军事
-https://hls.catvod.com/live/Sh1HO0X1Foord2ZQUBQKkkDssTGuuMHrqAO2-233gUsAb5whv-1w3aQV7_ZI9DrX/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="③央视频道",CCTV8电视剧
-https://hls.catvod.com/live/dpNB8YnsQij7wIWHBk8h_Pu_9_JeEk9MAOZHa0y_tmtUKDbdpVtj-rDi4Ceb0DnS/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="③央视频道",CCTV9纪录
-https://hls.catvod.com/live/Dt4llN4RI7hVQAmJ8pfAJP-xkbduk7QYyIOE2ljcwW3KioYruZaBatxnmvKQh3Yl/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="③央视频道",CCTV10科教
-https://hls.catvod.com/live/nWF6AzcshXGgpNTk-jaIlpJQpFaHTU6XL4zM69YaAZAIVLmy0c4AgOhq_KihU38s/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="③央视频道",CCTV11戏曲
-https://hls.catvod.com/live/HM5fyyMBsBHY7dYNmz998oqD3mUD-Ylg7s30rZDESSc06gFgcfcP1yJcBJkRmnqC/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="③央视频道",CCTV12社会与法
-https://hls.catvod.com/live/gTSaIsYWra1a8BVnrBY1IETGg1hMtR2-coYxxcvLUkgZkPVfMVQxZNW4yF3A-NoN/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="③央视频道",CCTV13新闻
-https://hls.catvod.com/live/aUwYbHsu2scluoYWJk40hJiS0OTqrqxaW47dcjE_syPgP49JP_sT_nCgot9VrfFn/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="③央视频道",CCTV14少儿
-https://hls.catvod.com/live/f8NJIxo-qwx51RQ7FJcqlCbvTUyWU6zddlxyGDHcMor53nI76DhFDny5sd97DRLN/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="③央视频道",CCTV15音乐
-https://hls.catvod.com/live/ER24r791xsIJifAY2UvOuQHJf7VZQynJ8ptp0bWSgVa6ptgirM3qzftjMfEL-q1h/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="③央视频道",CCTV16奥林匹克
-https://hls.catvod.com/live/lTQUVyPCVfIP04Xkvff63VHafnSS2UnHQnphTQ7m93NgXIYKne91_SqBKeFVvEYJ/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="③央视频道",CCTV17农业农村
-https://hls.catvod.com/live/83B8reN40MSz99sPLUHFshXFb7Qhrv71Kh_B52rN4W2OOj6DDPiFkahR3p4YhU8L/index.m3u8
-#EXTINF:-1 tvg-name="cctv4k超高清" tvg-logo="https://logo.catvod.com/CCTV4K.png" group-title="③央视频道",cctv4k超高清
-https://hls.catvod.com/live/zGlm4MnGaqShdJLxamTLo074FEYxciMNT_8eiYNeiKVM6gucUOIIShoiOVmlq1_u/index.m3u8
-
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="③卫视频道",兵团卫视
-https://hls.catvod.com/live/6T5tSOReAP_mNK86UnxJB0jolgMfgNfwdOGac1KG9jM2I8-zFOdiYiJBYYWSVawj/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="③卫视频道",河北卫视
-https://hls.catvod.com/live/UkWpHTAlNC4Us-E8unT-WfQkWfpV-yVe-sAzJ0N2bgFZaxUEX6ugn-bWA0mR193J/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="③卫视频道",河南卫视
-https://hls.catvod.com/live/SEuKkSeXdWEuWPyo9csJ35wyIZlwTtztRK1A99ell7sHSUrAQcHMr71HR5JxM1fU/index.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="③卫视频道",青海卫视
-https://hls.catvod.com/live/NJKQzbx_mOaqFs-H3wESoTkYspVrSbFeZAla1CSUZIOFrGzPivwi-vxGhiY3aigs/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/贵州卫视.png" group-title="③卫视频道",贵州卫视
-https://hls.catvod.com/live/DZQbnkFegC-Tm6KVlSMOmrbV8msHiTNxPsbk0T7hwMxrBJ1DvEVfAZ6HRfQblUKh/index.m3u8
-
-
-
-
-
+③央视频道,#genre#
+CCTV1综合,https://hls.catvod.com/live/9NFldIGHT4OgFPIcxTR_sXnyIU0jL9T6i563IwxJeHDPHt0-3UsF1Mv4TaGb1-xt/index.m3u8
+CCTV2财经,https://hls.catvod.com/live/gLwos7_e6Y4Upl1BxacXF4o8curNTa91h6lAiRxU_eQJkK_AtkgWr17o8ntRv1Ce/index.m3u8
+CCTV3综艺,https://hls.catvod.com/live/0Rre4DIdUbejNXiTFA9nC1LH3iGG0xv5lKYOvk5E3TcNvrBUvVndzOzcfT7BH7wQ/index.m3u8
+CCTV4中文国际,https://hls.catvod.com/live/P4Dm_ldIeLhp0bYFx2WSJ4MIZpMrECSwDsvgJ4EGk4nIW8ZICmOgXabanVr3Yrsk/index.m3u8
+CCTV5体育,https://hls.catvod.com/live/4UzY4Wo80Lh4JHmoPnbPcqTm7qLaNP8QXWynXVW2gD7ADfQGeSu_QsaDRASsDBaq/index.m3u8
+CCTV5+体育赛事,https://hls.catvod.com/live/lSNsCg-4iPwNJwKvIEAveMjOVPEXSA2piiJSdUHXrKweYrqwhQIwX9nIb92gQqAP/index.m3u8
+CCTV6电影,https://hls.catvod.com/live/jKCU2LvGncuNwFkVJvnab7Al933W6jbeMGaib9j0eN6i0R4vP8Kthj-EdUWRUIeV/index.m3u8
+CCTV7国防军事,https://hls.catvod.com/live/Sh1HO0X1Foord2ZQUBQKkkDssTGuuMHrqAO2-233gUsAb5whv-1w3aQV7_ZI9DrX/index.m3u8
+CCTV8电视剧,https://hls.catvod.com/live/dpNB8YnsQij7wIWHBk8h_Pu_9_JeEk9MAOZHa0y_tmtUKDbdpVtj-rDi4Ceb0DnS/index.m3u8
+CCTV9纪录,https://hls.catvod.com/live/Dt4llN4RI7hVQAmJ8pfAJP-xkbduk7QYyIOE2ljcwW3KioYruZaBatxnmvKQh3Yl/index.m3u8
+CCTV10科教,https://hls.catvod.com/live/nWF6AzcshXGgpNTk-jaIlpJQpFaHTU6XL4zM69YaAZAIVLmy0c4AgOhq_KihU38s/index.m3u8
+CCTV11戏曲,https://hls.catvod.com/live/HM5fyyMBsBHY7dYNmz998oqD3mUD-Ylg7s30rZDESSc06gFgcfcP1yJcBJkRmnqC/index.m3u8
+CCTV12社会与法,https://hls.catvod.com/live/gTSaIsYWra1a8BVnrBY1IETGg1hMtR2-coYxxcvLUkgZkPVfMVQxZNW4yF3A-NoN/index.m3u8
+CCTV13新闻,https://hls.catvod.com/live/aUwYbHsu2scluoYWJk40hJiS0OTqrqxaW47dcjE_syPgP49JP_sT_nCgot9VrfFn/index.m3u8
+CCTV14少儿,https://hls.catvod.com/live/f8NJIxo-qwx51RQ7FJcqlCbvTUyWU6zddlxyGDHcMor53nI76DhFDny5sd97DRLN/index.m3u8
+CCTV15音乐,https://hls.catvod.com/live/ER24r791xsIJifAY2UvOuQHJf7VZQynJ8ptp0bWSgVa6ptgirM3qzftjMfEL-q1h/index.m3u8
+CCTV16奥林匹克,https://hls.catvod.com/live/lTQUVyPCVfIP04Xkvff63VHafnSS2UnHQnphTQ7m93NgXIYKne91_SqBKeFVvEYJ/index.m3u8
+CCTV17农业农村,https://hls.catvod.com/live/83B8reN40MSz99sPLUHFshXFb7Qhrv71Kh_B52rN4W2OOj6DDPiFkahR3p4YhU8L/index.m3u8
+cctv4k超高清,https://hls.catvod.com/live/zGlm4MnGaqShdJLxamTLo074FEYxciMNT_8eiYNeiKVM6gucUOIIShoiOVmlq1_u/index.m3u8
+③卫视频道,#genre#
+兵团卫视,https://hls.catvod.com/live/6T5tSOReAP_mNK86UnxJB0jolgMfgNfwdOGac1KG9jM2I8-zFOdiYiJBYYWSVawj/index.m3u8
+河北卫视,https://hls.catvod.com/live/UkWpHTAlNC4Us-E8unT-WfQkWfpV-yVe-sAzJ0N2bgFZaxUEX6ugn-bWA0mR193J/index.m3u8
+河南卫视,https://hls.catvod.com/live/SEuKkSeXdWEuWPyo9csJ35wyIZlwTtztRK1A99ell7sHSUrAQcHMr71HR5JxM1fU/index.m3u8
+青海卫视,https://hls.catvod.com/live/NJKQzbx_mOaqFs-H3wESoTkYspVrSbFeZAla1CSUZIOFrGzPivwi-vxGhiY3aigs/index.m3u8
+贵州卫视,https://hls.catvod.com/live/DZQbnkFegC-Tm6KVlSMOmrbV8msHiTNxPsbk0T7hwMxrBJ1DvEVfAZ6HRfQblUKh/index.m3u8
